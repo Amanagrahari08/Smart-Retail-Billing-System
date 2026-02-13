@@ -89,21 +89,6 @@ One role → Many users
 
 One product → Many sale_items
 
-📂 Project Structure
-ERP-Grocery/
-│
-├── src/
-│   ├── db/               # Database connection & config
-│   ├── model/            # Entity classes (User, Product, Sale)
-│   ├── dao/              # Database operations (CRUD)
-│   ├── service/          # Business logic
-│   ├── ui/               # Swing GUI screens
-│   └── util/             # Utilities (Invoice Generator, Helpers)
-│
-├── invoices/             # Generated invoice .txt files
-├── database/             # SQL Schema file
-└── README.md
-
 ⚙️ How to Run
 
 Clone the repository
